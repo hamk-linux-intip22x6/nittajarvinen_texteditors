@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Nitta Järvinen</h1>
+    <h2>Harjoitus 1: Text Editors</h2>
+    <p><a href="2kuvaa.html">Linkki kahteen kuvaan</a></p>
+    <p><a href="lifestoori.html">Linkki vim sivustoon</a></p>
+    <img src="<a title="smiley emoticon art transprent png free download - blue smiley face PNG image with transparent background@toppng.com" href="https://toppng.com/free-image/smiley-emoticon-art-transprent-png-free-download-blue-smiley-face-PNG-free-PNG-Images_274800" target="_blank">smiley emoticon art transprent png free download - blue smiley face PNG image with transparent background@toppng.com</a>" alt="smiley">
+  </body>
+</html>

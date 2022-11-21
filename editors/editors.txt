@@ -1,0 +1,10 @@
+Vim, Emacs ja Micro
+
+Nitta Järvinen
+
+1. Yleisesti editoreita oli helppo oppia koska tarvii vain tietää komennot ja ne löytyy helposti esimerkiksi opettajan materiaaleista. Kokeilin vimiä emacsin jälkeen joka oli huomattavasti erilaisempaa käyttää ja hieman hankalampaa, joten se oli ihan hauska oppia kuinka paljon erilaisempi se on.
+2. Ei mitään moitittavaa käyttöliittymästä
+3. Kaikkien editorien kanssa käytin aika yksinkertaisia toimintoja.
+4. Vim on ehkä hitain käyttää ja micro nopein. Vimissä jos haluaa edes kirjoittaa mitään alas, sitä ennen täytyy syöttää komento. Microssa on ne yleiset pikanäppäimet jotka muistaa jo valmiiksi (ctrl+C ja ctrl+v) joten se nopeuttaa tietenkin.
+5. Minulla oli ongelma vimin kanssa tekstin maalaamisessa ja kopioinnissa ja micron kanssa liittämisessä. Jos kopioin netistä jotain tekstiä micro editoriin liittämällä, se ei liitä ja sanoo että xclip täytyy ladata, vaikka olen sen jo ladannut... noh en tiedä
+6. Ehkä vimin komennoilla olisi helpointa musitiinpanoja tehä, muilla sitten vaikkapa python koodia

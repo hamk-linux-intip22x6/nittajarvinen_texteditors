@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="tyyli.css">
+  </head>
+  <body>
+    <h1>2 kuvaa</h1>
+    
+    
+    <img src="https://i.pinimg.com/736x/84/01/f4/8401f43e179d1ea048869dad5581d7b4.jpg" alt="quokka" width="300" height="300">
+    <img src="https://live.staticflickr.com/5110/5599108318_115f097c50_b.jpg" alt="monkey" height="300" width="300">
+  </body>
+</html>
